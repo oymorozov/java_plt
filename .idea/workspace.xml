@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad31e170-f32c-497f-afbb-5312559e94e1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sandbox/src/main/java/MyFirstProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/sandbox/src/main/java/ru/stqa/pft/sandbox/MyFirstProgram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sandbox/build/classes/java/main/ru/stqa/pft/sandbox/MyFirstProgram.class" beforeDir="false" afterPath="$PROJECT_DIR$/sandbox/build/classes/java/main/ru/stqa/pft/sandbox/MyFirstProgram.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sandbox/src/main/java/ru/stqa/pft/sandbox/MyFirstProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/sandbox/src/main/java/ru/stqa/pft/sandbox/MyFirstProgram.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +43,11 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="ru.stqa.pft.sandbox" />
+    </key>
   </component>
   <component name="RunManager" selected="Application.MyFirstProgram">
     <configuration name="MyFirstProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -98,22 +103,42 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="740" y="289" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1588961490722" />
-    <state width="1877" height="320" key="GridCell.Tab.0.bottom" timestamp="1588961651821">
-      <screen x="0" y="0" width="1920" height="1160" />
+    <state width="1877" height="320" key="GridCell.Tab.0.bottom" timestamp="1589128891648">
+      <screen x="1920" y="0" width="1920" height="1160" />
     </state>
+    <state width="1877" height="320" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1589128891648" />
     <state width="1877" height="320" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1588961651821" />
-    <state width="1877" height="320" key="GridCell.Tab.0.center" timestamp="1588961651821">
-      <screen x="0" y="0" width="1920" height="1160" />
+    <state width="1877" height="320" key="GridCell.Tab.0.center" timestamp="1589128891648">
+      <screen x="1920" y="0" width="1920" height="1160" />
     </state>
+    <state width="1877" height="320" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1589128891648" />
     <state width="1877" height="320" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1588961651821" />
-    <state width="1877" height="320" key="GridCell.Tab.0.left" timestamp="1588961651821">
-      <screen x="0" y="0" width="1920" height="1160" />
+    <state width="1877" height="320" key="GridCell.Tab.0.left" timestamp="1589128891648">
+      <screen x="1920" y="0" width="1920" height="1160" />
     </state>
+    <state width="1877" height="320" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1589128891648" />
     <state width="1877" height="320" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1588961651821" />
-    <state width="1877" height="320" key="GridCell.Tab.0.right" timestamp="1588961651821">
-      <screen x="0" y="0" width="1920" height="1160" />
+    <state width="1877" height="320" key="GridCell.Tab.0.right" timestamp="1589128891648">
+      <screen x="1920" y="0" width="1920" height="1160" />
     </state>
+    <state width="1877" height="320" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1589128891648" />
     <state width="1877" height="320" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1588961651821" />
+    <state width="1877" height="396" key="GridCell.Tab.1.bottom" timestamp="1589127946756">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="396" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1589127946756" />
+    <state width="1877" height="396" key="GridCell.Tab.1.center" timestamp="1589127946756">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="396" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1589127946756" />
+    <state width="1877" height="396" key="GridCell.Tab.1.left" timestamp="1589127946756">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="396" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1589127946756" />
+    <state width="1877" height="396" key="GridCell.Tab.1.right" timestamp="1589127946756">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="396" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1589127946756" />
     <state x="440" y="154" key="SettingsEditor" timestamp="1588961502357">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -122,5 +147,9 @@
       <screen x="1920" y="0" width="1920" height="1160" />
     </state>
     <state x="2716" y="357" key="chooseDestDirectoryDialog/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1589120409754" />
+    <state x="2450" y="308" width="860" height="630" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1589121175317">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="2450" y="308" width="860" height="630" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1589121175317" />
   </component>
 </project>
